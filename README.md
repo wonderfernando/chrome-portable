@@ -8,7 +8,7 @@ de usar uma maquina virtual
 ## Estrutura do Repositório
 
 - `Dockerfile` - Define o ambiente e as dependências do contêiner. 
-- `vscode-data/` - Diretório para persistir dados do VSCode.
+- `chrome-data/` - Diretório para persistir dados do Chrome.
 
 ## Como usar ?
 
